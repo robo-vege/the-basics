@@ -24,3 +24,5 @@ Um mit Git arbeiten zu können, musst du es zunächst auf deinem Computer instal
 3. **MacOS / OSX** - Am einfachsten ist es, [homebrew](https://brew.sh/) zu installieren und dann in einem neuen Terminal Git mit `brew install git` zu installieren.
 
 Wenn du nicht auf der Kommandozeile mit Git arbeiten willst, kann ich dir Client-Programme wie GitHub Desktop empfehlen. Es gibt jedoch noch viele weitere Git-Programme die kostenlos nutzbar sind. Auch wenn du dich für eine GUI-Anwendung entscheidest, solltest du dennoch die wichtigsten Git Befehle kennen, weshalb wir uns vorwiegend in der Kommandozeile aufhalten werden. So lernst du die Befehle am einfachsten (learning by doing!).
+
+Anschließend kannst du [Git Einrichten](git-einrichten.md) lesen.
