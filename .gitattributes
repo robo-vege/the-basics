@@ -1,0 +1,5 @@
+# Automatically normalize line-endings
+* text auto
+
+# Have linguist detect markdown files
+*md linguist-detectable=true
